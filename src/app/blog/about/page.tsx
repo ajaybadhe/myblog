@@ -2,20 +2,12 @@ export default function page() {
     return (
         <div>
             <h1 className="text-center font-bold text-lg">About US</h1>
-            <p className="pb-4">
-                An About Us page isn't just where you share the story of your brand. It's also where you tell your customer what you do for them and how you work to meet their needs in that area. It isn't so much “Here's what we're about,” but more like “Here's who we are, why we started, and what we can do for you.”
-            </p>
-            <p className="pb-4">
-                An About Us page isn't just where you share the story of your brand. It's also where you tell your customer what you do for them and how you work to meet their needs in that area. It isn't so much “Here's what we're about,” but more like “Here's who we are, why we started, and what we can do for you.”
-            </p>
-            <p className="pb-4">
-                An About Us page isn't just where you share the story of your brand. It's also where you tell your customer what you do for them and how you work to meet their needs in that area. It isn't so much “Here's what we're about,” but more like “Here's who we are, why we started, and what we can do for you.”
-            </p>
-            <p className="pb-4">
-                An About Us page isn't just where you share the story of your brand. It's also where you tell your customer what you do for them and how you work to meet their needs in that area. It isn't so much “Here's what we're about,” but more like “Here's who we are, why we started, and what we can do for you.”
-            </p>
-            <p className="pb-4">
-                An About Us page isn't just where you share the story of your brand. It's also where you tell your customer what you do for them and how you work to meet their needs in that area. It isn't so much “Here's what we're about,” but more like “Here's who we are, why we started, and what we can do for you.”
+            <p>
+            where designs are implemented using only low-level utility classes. This is a powerful way to avoid premature abstraction and the pain points that come with it.
+
+But of course as a project grows, you\’ll inevitably find yourself repeating common utility combinations to recreate the same design in many different places.
+
+For example, in the template below you can see the utility classes for each avatar image are repeated five separate times:
             </p>
         </div>
     )

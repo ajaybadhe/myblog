@@ -1,7 +1,7 @@
 export default function page() {
     return (
         <div>
-            <h1 className="text-center font-bold text-lg">About US</h1>
+            <h1 className="text-center font-bold text-lg text-green-800">About Us</h1>
             <p>
             where designs are implemented using only low-level utility classes. This is a powerful way to avoid premature abstraction and the pain points that come with it.
 
